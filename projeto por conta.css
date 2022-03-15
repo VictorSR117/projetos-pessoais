@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-size: 18px;
+    background-color: rgb(201, 193, 193)
+}
+p {
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    font-size:19px;
+}
+h1 {
+    text-align: center;
+}
+h4 {
+    color: white;
+    
+}
+img {
+    margin-left: 22%;
+    border-radius: 30px;
+    border: 1px solid rgb(212, 38, 38);
+    background-color: aqua;
+}
+a{
+    text-decoration: none;
+    color: white
+}
+a:hover{
+    color: rgb(48, 233, 57);
+}
+a:visited{
+    color: rgb(236, 2, 2);
+    text-decoration: underline;
+}
